@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
+import "./assets/icones/fontes/GandhiSans-Bold.otf"
+import "./assets/icones/fontes/GandhiSans-Regular.otf"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

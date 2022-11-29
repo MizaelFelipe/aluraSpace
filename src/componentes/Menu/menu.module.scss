@@ -1,5 +1,6 @@
 .menu {
     width: 18%;
+    
   
     &__lista {
       padding-left: 0.5rem;
@@ -15,6 +16,7 @@
       display: flex;
       justify-content: flex-start;
       align-items: center;
+      
   
       &:first-child {
         a {

@@ -19,3 +19,18 @@ body::-webkit-scrollbar {
     border-radius: 20px;
   }
 
+@font-face {
+    font-family: 'GandhiSansRegular';
+    src: local(GandhiSans-Regular),
+    url('../assets/icones/fontes/GandhiSans-Regular.otf');
+    font-weight: 500;
+    display:swap
+}
+
+@font-face {
+    font-family: 'GandhiSansBold';
+    src: local(GandhiSansBold),
+    url('../assets/icones/fontes/GandhiSans-Regular.otf');
+    font-weight: 500;
+    display:swap
+}
