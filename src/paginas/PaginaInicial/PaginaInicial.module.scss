@@ -1,5 +1,3 @@
-@import "../../styles/variaveis";
-
 main {
   margin: 0 24px;
 }
@@ -22,9 +20,9 @@ main {
     h1 {
       position: absolute;
       z-index: 1;
-      color: $cinza-claro;
+      color: #d9d9d9;
       font-size: 2.5rem;
-      font-family: $fonte-bold;
+      font-family: "GandhiSansBold";
       width: 401px;
       height: 144px;
       top: 75px;
@@ -32,3 +30,12 @@ main {
     }
   }
 }
+
+.galeria {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-left: 17%;
+  margin-top: 1rem;
+}
+
