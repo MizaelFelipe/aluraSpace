@@ -1,69 +1,69 @@
 [
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Galaxia das profundezas",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-1.png",
     "id": "1",
     "tag": "Galáxias"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Particulas de estrelas",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-2.png",
     "id": "2",
     "tag": "Estrelas"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Lua nova",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-3.png",
     "id": "3",
     "tag": "Lua"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Constelacao",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-4.png",
     "id": "4",
     "tag": "Galáxias"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Buraco negro vermelho",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-5.png",
     "id": "5",
     "tag": "Estrelas"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Fragmentos do big bang",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-6.png",
     "id": "6",
     "tag": "Nebulosas"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Escuridao galactica",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-7.png",
     "id": "7",
     "tag": "Galáxias"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Galaxia do arcuires",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-8.png",
     "id": "8",
     "tag": "Nebulosas"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Profundeza escura",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-9.png",
     "id": "9",
     "tag": "Estrelas"
   },
   {
-    "titulo": "Nome da Foto",
+    "titulo": "Clarao galatico",
     "creditos": "Alura Space",
     "imagem": "/assets/imagens/galeria/foto-10.png",
     "id": "10",
